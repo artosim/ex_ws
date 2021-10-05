@@ -1,0 +1,2 @@
+turtle_commander
+-DCATKIN_DEVEL_PREFIX=/home/artosim/ex_ws/devel -DCMAKE_INSTALL_PREFIX=/home/artosim/ex_ws/install -G Unix Makefiles
